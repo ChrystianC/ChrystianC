@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java-Script, React, Express**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ChrystianC?tab=repositories](https://github.com/ChrystianC?tab=repositories)
+- 👨‍💻 Some of my projects are available at [https://github.com/ChrystianC?tab=repositories](https://github.com/ChrystianC?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
